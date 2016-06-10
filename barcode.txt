@@ -1,0 +1,5 @@
+Barcode        ID
+AATTGGCC       A1
+TTAAGGCC       A2
+GGCCTTAA       A3
+CCGGAATT       A4
